@@ -1,0 +1,9 @@
+/.deps/
+/lib/
+/.crystal/
+/.vscode/
+bin/
+
+perf.data*
+profile*
+shard.lock

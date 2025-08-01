@@ -1,0 +1,330 @@
+{
+    "id": 10362,
+    "main_release": 1873013,
+    "most_recent_release": 25676449,
+    "resource_url": "https://api.discogs.com/masters/10362",
+    "uri": "https://www.discogs.com/master/10362-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+    "versions_url": "https://api.discogs.com/masters/10362/versions",
+    "main_release_url": "https://api.discogs.com/releases/1873013",
+    "most_recent_release_url": "https://api.discogs.com/releases/25676449",
+    "num_for_sale": 7525,
+    "lowest_price": 0.5,
+    "images": [
+        {
+            "type": "primary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 602
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 597
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 598
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 599
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 607
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 605
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 497
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 435
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 496
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 499
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 397
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 577,
+            "height": 380
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 361
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 359
+        }
+    ],
+    "genres": [
+        "Rock"
+    ],
+    "styles": [
+        "Prog Rock",
+        "Psychedelic Rock"
+    ],
+    "year": 1973,
+    "tracklist": [
+        {
+            "position": "A1",
+            "type_": "track",
+            "title": "Speak To Me",
+            "duration": ""
+        },
+        {
+            "position": "A2",
+            "type_": "track",
+            "title": "Breathe",
+            "duration": ""
+        },
+        {
+            "position": "A3",
+            "type_": "track",
+            "title": "On The Run",
+            "duration": ""
+        },
+        {
+            "position": "A4",
+            "type_": "track",
+            "title": "Time",
+            "duration": ""
+        },
+        {
+            "position": "A5",
+            "type_": "track",
+            "title": "The Great Gig In The Sky",
+            "extraartists": [
+                {
+                    "name": "Clare Torry",
+                    "anv": "",
+                    "join": "",
+                    "role": "Vocals",
+                    "tracks": "",
+                    "id": 251574,
+                    "resource_url": "https://api.discogs.com/artists/251574"
+                }
+            ],
+            "duration": ""
+        },
+        {
+            "position": "B1",
+            "type_": "track",
+            "title": "Money",
+            "extraartists": [
+                {
+                    "name": "Dick Parry",
+                    "anv": "",
+                    "join": "",
+                    "role": "Saxophone",
+                    "tracks": "",
+                    "id": 251575,
+                    "resource_url": "https://api.discogs.com/artists/251575"
+                }
+            ],
+            "duration": ""
+        },
+        {
+            "position": "B2",
+            "type_": "track",
+            "title": "Us And Them",
+            "extraartists": [
+                {
+                    "name": "Dick Parry",
+                    "anv": "",
+                    "join": "",
+                    "role": "Saxophone",
+                    "tracks": "",
+                    "id": 251575,
+                    "resource_url": "https://api.discogs.com/artists/251575"
+                }
+            ],
+            "duration": ""
+        },
+        {
+            "position": "B3",
+            "type_": "track",
+            "title": "Any Colour You Like",
+            "duration": ""
+        },
+        {
+            "position": "B4",
+            "type_": "track",
+            "title": "Brain Damage",
+            "duration": ""
+        },
+        {
+            "position": "B5",
+            "type_": "track",
+            "title": "Eclipse",
+            "duration": ""
+        }
+    ],
+    "artists": [
+        {
+            "name": "Pink Floyd",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 45467,
+            "resource_url": "https://api.discogs.com/artists/45467"
+        }
+    ],
+    "title": "The Dark Side Of The Moon",
+    "notes": "\"The Dark Side Of The Moon\" is the eighth studio LP to be released by Pink Floyd. It was recorded at Abbey Road Studios in London, England and released in 1973. It stands as one of the most successful commercial recordings of all time, and has been released in many countries. In the U.S., the album has spent more time on the Billboard 200 album chart than any other release in modern history.\r\n\r\nEarly releases included two posters and two color stickers inside the gatefold sleeve, all designed by the U.K. graphics and design company Hipgnosis.\r\n\r\nThe most sought-after and valuable version of DSOTM is the original U.K. Harvest issue, identifiable with a solid blue triangle on the labels instead of the shaded triangle used on most other versions.\r\n\r\nOn September 11, 2020 the MR first reached the threshold of 1000 different versions and is currently hovering around that number, making it one of the most populated MRs in the entire database. Most of the vinyl versions were issued with gatefold sleeves. However there are a number of versions with significant differences in packaging and design, such as this version: [r1443030] from the Philippines which has the artist's name and LP title printed in large text on a non-gatefold sleeve. New and previously undocumented versions of DSOTM get added to the database frequently making it one of the most interesting titles to focus on for \"deep collectors\" .\r\n\r\nPerformed by:\r\n[a110863] \u2013 vocals, guitars, Synthi AKS\r\n[a246097] \u2013 drums, percussion, tape effects\r\n[a110862] \u2013 bass guitar, vocals, VCS 3, tape effects\r\n[a110861] \u2013 organ (Hammond and Farfisa), piano, electric piano (Wurlitzer, Rhodes), EMS VCS 3, Synthi AKS, vocals",
+    "data_quality": "Correct",
+    "videos": [
+        {
+            "uri": "https://www.youtube.com/watch?v=JlZqr30BMQ4",
+            "title": "Pink Floyd - Dark Side Of The Moon (Live at Wembley Empire Pool 1974) Movie",
+            "description": "Pink Floyd - Dark side of the moon Experience Edition (Live at Wembley Empire Pool 1974) Side A complete movie.",
+            "duration": 0,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=HW-lXjOyUWo",
+            "title": "Speak To Me",
+            "description": "Provided to YouTube by Pink Floyd\n\nSpeak To Me \u00b7 Pink Floyd\n\nThe Dark Side of the Moon\n\n\u2117 Pink Floyd Records\n\nReleased on: 1973-03-16\n\nAuto-generated by YouTube.",
+            "duration": 68,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=Vddl9TK5RqU",
+            "title": "Breathe (In The Air)",
+            "description": "Provided to YouTube by Pink Floyd\n\nBreathe (In The Air) \u00b7 Pink Floyd\n\nThe Dark Side of the Moon\n\n\u2117 Pink Floyd Records\n\nReleased on: 1973-03-16\n\nAuto-generated by YouTube.",
+            "duration": 170,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=2sUyk5zSbhM",
+            "title": "On The Run",
+            "description": "Provided to YouTube by Pink Floyd\n\nOn The Run \u00b7 Pink Floyd\n\nThe Dark Side of the Moon\n\n\u2117 Pink Floyd Records\n\nReleased on: 1973-03-16\n\nAuto-generated by YouTube.",
+            "duration": 226,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=pgXozIma-Oc",
+            "title": "Time",
+            "description": "Provided to YouTube by Pink Floyd\n\nTime \u00b7 Pink Floyd\n\nThe Dark Side of the Moon\n\n\u2117 Pink Floyd Records\n\nReleased on: 1973-03-16\n\nAuto-generated by YouTube.",
+            "duration": 414,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=mPGv8L3a_sY",
+            "title": "The Great Gig In The Sky",
+            "description": "Provided to YouTube by Pink Floyd\n\nThe Great Gig In The Sky \u00b7 Pink Floyd\n\nThe Dark Side of the Moon\n\n\u2117 Pink Floyd Records\n\nReleased on: 1973-03-16\n\nAuto-generated by YouTube.",
+            "duration": 285,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=rwPM01cbQBc",
+            "title": "Money",
+            "description": "Provided to YouTube by Pink Floyd\n\nMoney \u00b7 Pink Floyd\n\nThe Dark Side of the Moon\n\n\u2117 Pink Floyd Records\n\nReleased on: 1973-03-16\n\nAuto-generated by YouTube.",
+            "duration": 384,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=GKiLEgAzFDQ",
+            "title": "Us And Them",
+            "description": "Provided to YouTube by Pink Floyd\n\nUs And Them \u00b7 Pink Floyd\n\nThe Dark Side of the Moon\n\n\u2117 Pink Floyd Records\n\nReleased on: 1973-03-16\n\nAuto-generated by YouTube.",
+            "duration": 470,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=_83urK9rO4U",
+            "title": "Any Colour You Like",
+            "description": "Provided to YouTube by Pink Floyd\n\nAny Colour You Like \u00b7 Pink Floyd\n\nThe Dark Side of the Moon\n\n\u2117 Pink Floyd Records\n\nReleased on: 1973-03-16\n\nAuto-generated by YouTube.",
+            "duration": 207,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=BhYKN21olBw",
+            "title": "Brain Damage",
+            "description": "Provided to YouTube by Pink Floyd\n\nBrain Damage \u00b7 Pink Floyd\n\nThe Dark Side of the Moon\n\n\u2117 Pink Floyd Records\n\nReleased on: 1973-03-16\n\nAuto-generated by YouTube.",
+            "duration": 227,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=9wjZrswriz0",
+            "title": "Eclipse",
+            "description": "Provided to YouTube by Pink Floyd\n\nEclipse \u00b7 Pink Floyd\n\nThe Dark Side of the Moon\n\n\u2117 Pink Floyd Records\n\nReleased on: 1973-03-16\n\nAuto-generated by YouTube.",
+            "duration": 133,
+            "embed": true
+        }
+    ]
+}

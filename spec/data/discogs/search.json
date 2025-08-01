@@ -1,0 +1,2211 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "items": 37,
+        "urls": {}
+    },
+    "results": [
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Harvest",
+                "Abbey Road Studios"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Classic Rock",
+                "Prog Rock"
+            ],
+            "id": 8590434,
+            "barcode": [
+                "SHVL 804 A-2",
+                "SHVL 804 B-2",
+                "1",
+                "G",
+                "1",
+                "G"
+            ],
+            "master_id": 0,
+            "master_url": null,
+            "uri": "/release/8590434-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "",
+            "cover_image": "https://st.discogs.com/1ae136673a0af3a1b4c71d209eae4ffee7b28083/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/releases/8590434",
+            "community": {
+                "want": 0,
+                "have": 0
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Gatefold Sleeve",
+                    "descriptions": [
+                        "LP",
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Repress"
+            ],
+            "label": [
+                "Harvest"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Psychedelic Rock",
+                "Prog Rock"
+            ],
+            "id": 7287543,
+            "barcode": [
+                "Z SHVL-804-A-7 1 B/S/ HTM ",
+                "Z SHVL-804-B-6",
+                "Z SHVL-804-A-7 HTM 1||",
+                "Z SHVL-804-B-6"
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/7287543-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/SZgSeWuXaQ3BxHIzSbdwgGR9LZcktMtv6yiHDfLE51E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODc1/NDMtMTQ5ODIwNTE0/OS0zMDU1LmpwZWc.jpeg",
+            "cover_image": "https://i.discogs.com/MKKCCJCOZZbMothvyOQdyKWW5cr4_p3djEfdWxUtp7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODc1/NDMtMTQ5ODIwNTE0/OS0zMDU1LmpwZWc.jpeg",
+            "resource_url": "https://api.discogs.com/releases/7287543",
+            "community": {
+                "want": 1618,
+                "have": 2340
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Repress"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Repress"
+            ],
+            "label": [
+                "Harvest",
+                "Abbey Road Studios",
+                "Garrod & Lofthouse"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Psychedelic Rock",
+                "Prog Rock"
+            ],
+            "id": 4434787,
+            "barcode": [
+                "SHVL 804 A - 3",
+                "SHVL 804 B - 3"
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/4434787-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/P0fvPPbILqLKAq7NDiGXcAZd_i-p1G5SsaOeiBD8PTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzQ3/ODctMTUyMzM5Njg1/NS0xNTQ2LmpwZWc.jpeg",
+            "cover_image": "https://i.discogs.com/rluRSBV2CSiGZnSvtpjRfkEGhk-fQGCipNOlhK5tLtw/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzQ3/ODctMTUyMzM5Njg1/NS0xNTQ2LmpwZWc.jpeg",
+            "resource_url": "https://api.discogs.com/releases/4434787",
+            "community": {
+                "want": 1624,
+                "have": 389
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "No Rim Text",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Repress"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Stereo"
+            ],
+            "label": [
+                "Harvest"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Psychedelic Rock",
+                "Prog Rock"
+            ],
+            "id": 26510180,
+            "barcode": [
+                "SHVL 804"
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/26510180-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/Q_xVFzXYTnVWPTln8doPT0Lcwt5xH9kWQXgYEVbwd8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTEw/MTgwLTE2Nzk1MjIw/NDAtNDUyMS5wbmc.jpeg",
+            "cover_image": "https://i.discogs.com/wc8MN25S_8LJg4jB8RX8xKkNoGGboBoMIvDQHbWXS0s/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTEw/MTgwLTE2Nzk1MjIw/NDAtNDUyMS5wbmc.jpeg",
+            "resource_url": "https://api.discogs.com/releases/26510180",
+            "community": {
+                "want": 5,
+                "have": 2
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "White",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Stereo"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Harvest",
+                "Abbey Road Studios"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Classic Rock",
+                "Prog Rock"
+            ],
+            "id": 7737713,
+            "barcode": [
+                "SHVL 804 A-2",
+                "SHVL 804 B-2",
+                "1",
+                "G",
+                "1",
+                "G"
+            ],
+            "master_id": 0,
+            "master_url": null,
+            "uri": "/Pink-Floyd-The-Dark-Side-Of-The-Moon/release/7737713",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "",
+            "cover_image": "https://st.discogs.com/1ae136673a0af3a1b4c71d209eae4ffee7b28083/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/releases/7737713",
+            "community": {
+                "want": 0,
+                "have": 0
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Gatefold Sleeve",
+                    "descriptions": [
+                        "LP",
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Misprint",
+                "Repress"
+            ],
+            "label": [
+                "Harvest",
+                "Garrod & Lofthouse",
+                "The Gramophone Co. Ltd."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Psychedelic Rock",
+                "Prog Rock"
+            ],
+            "id": 24571544,
+            "barcode": [
+                "SHVL 804 A-3   A G O",
+                "SHVL 804 B-3   P A "
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/24571544-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/goIH_cO9e581t1wyAuf3qcXU2YrK1uQvVu4ip3H3zvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTcx/NTQ0LTE2NjM4NDM4/MjgtNzkzMC5qcGVn.jpeg",
+            "cover_image": "https://i.discogs.com/bWP4NsZ01gwD1arPJumUgg1MAFcGy9Bf7eylU2vzqGg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTcx/NTQ0LTE2NjM4NDM4/MjgtNzkzMC5qcGVn.jpeg",
+            "resource_url": "https://api.discogs.com/releases/24571544",
+            "community": {
+                "want": 130,
+                "have": 30
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Crossover Pressing, Misprinted Labels",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Misprint",
+                        "Repress"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Harvest",
+                "Abbey Road Studios"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Classic Rock",
+                "Prog Rock"
+            ],
+            "id": 7737741,
+            "barcode": [
+                "SHVL 804 A-2",
+                "SHVL 804 B-2",
+                "1",
+                "G",
+                "1",
+                "G"
+            ],
+            "master_id": 0,
+            "master_url": null,
+            "uri": "/Pink-Floyd-The-Dark-Side-Of-The-Moon/release/7737741",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "",
+            "cover_image": "https://st.discogs.com/1ae136673a0af3a1b4c71d209eae4ffee7b28083/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/releases/7737741",
+            "community": {
+                "want": 0,
+                "have": 0
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Gatefold Sleeve",
+                    "descriptions": [
+                        "LP",
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Harvest",
+                "Abbey Road Studios"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Classic Rock",
+                "Prog Rock"
+            ],
+            "id": 7867876,
+            "barcode": [
+                "SHVL 804 A-2",
+                "SHVL 804 B-2",
+                "1",
+                "G",
+                "1",
+                "G"
+            ],
+            "master_id": 0,
+            "master_url": null,
+            "uri": "/release/7867876-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "",
+            "cover_image": "https://st.discogs.com/1ae136673a0af3a1b4c71d209eae4ffee7b28083/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/releases/7867876",
+            "community": {
+                "want": 0,
+                "have": 0
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Gatefold Sleeve",
+                    "descriptions": [
+                        "LP",
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Misprint"
+            ],
+            "label": [
+                "Harvest",
+                "Garrod & Lofthouse",
+                "The Gramophone Co. Ltd."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Psychedelic Rock",
+                "Prog Rock"
+            ],
+            "id": 10694926,
+            "barcode": [
+                "SHVL 804 A-3",
+                "SHVL 804 B-2"
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/10694926-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/HK3hiH0nX_rEODRQ7L4hmqMbKYiewXIXzshNN5MXFCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjk0/OTI2LTE1MDI1NTg3/OTYtOTQ3NS5qcGVn.jpeg",
+            "cover_image": "https://i.discogs.com/NtZJm-C22eiCHS_Z9hKdnUMByTksm0PYPoNGHgxNpg0/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjk0/OTI2LTE1MDI1NTg3/OTYtOTQ3NS5qcGVn.jpeg",
+            "resource_url": "https://api.discogs.com/releases/10694926",
+            "community": {
+                "want": 1159,
+                "have": 43
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Crossover Pressing, Misprinted Labels",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Misprint"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "8-Track Cartridge",
+                "Album"
+            ],
+            "label": [
+                "Harvest",
+                "The Gramophone Co. Ltd."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Prog Rock",
+                "Psychedelic Rock"
+            ],
+            "id": 16079769,
+            "barcode": [],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/16079769-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "8X-SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/2t5f5SlfP_EUwxGkKEGVf-KsHw5s5tQaRSNluAS6pnI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDc5/NzY5LTE2MDMwNTgy/OTEtNzkwMy5qcGVn.jpeg",
+            "cover_image": "https://i.discogs.com/dvXD-PBpJOaM-SaHvc9nzME3o8pwuhsrxiIRk2RhmqY/rs:fit/g:sm/q:90/h:745/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDc5/NzY5LTE2MDMwNTgy/OTEtNzkwMy5qcGVn.jpeg",
+            "resource_url": "https://api.discogs.com/releases/16079769",
+            "community": {
+                "want": 328,
+                "have": 7
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "8-Track Cartridge",
+                    "qty": "1",
+                    "text": "Blue Casing",
+                    "descriptions": [
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "8-Track Cartridge",
+                "Album"
+            ],
+            "label": [
+                "Harvest",
+                "The Gramophone Co. Ltd.",
+                "World Copyrights Ltd."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Prog Rock",
+                "Psychedelic Rock"
+            ],
+            "id": 9746184,
+            "barcode": [
+                "OC 346 o 05249",
+                "7304"
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/9746184-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "8X-SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/hbDVUatd_9RXnvOInvXM5X0nQ-q--TweU6d5AKdcvzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDYx/ODQtMTU0NTY2Nzg5/NC0zNzczLmpwZWc.jpeg",
+            "cover_image": "https://i.discogs.com/WRXJPuJWZ7NSk5GJRpLm0r0ltZ7PFw6KeyojXPBWzlE/rs:fit/g:sm/q:90/h:813/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDYx/ODQtMTU0NTY2Nzg5/NC0zNzczLmpwZWc.jpeg",
+            "resource_url": "https://api.discogs.com/releases/9746184",
+            "community": {
+                "want": 833,
+                "have": 32
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "8-Track Cartridge",
+                    "qty": "1",
+                    "text": "Black Casing",
+                    "descriptions": [
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "8-Track Cartridge",
+                "Album"
+            ],
+            "label": [
+                "Harvest",
+                "The Gramophone Co. Ltd.",
+                "World Copyrights Ltd."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Prog Rock",
+                "Psychedelic Rock"
+            ],
+            "id": 5892031,
+            "barcode": [
+                "OC 346 o 05249",
+                "7304"
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/5892031-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "8X-SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/-dOyut0vGum6IzD2Y2hoSf6oF3YQPJC2gjiRYfTh8uI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTIw/MzEtMTQwNTU1NjM2/Ny0yMjE3LmpwZWc.jpeg",
+            "cover_image": "https://i.discogs.com/xBXQbB311yGsm0sTLvgHohGvOVoPCQJ9SGwd7Efpbyg/rs:fit/g:sm/q:90/h:787/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTIw/MzEtMTQwNTU1NjM2/Ny0yMjE3LmpwZWc.jpeg",
+            "resource_url": "https://api.discogs.com/releases/5892031",
+            "community": {
+                "want": 1110,
+                "have": 27
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "8-Track Cartridge",
+                    "qty": "1",
+                    "descriptions": [
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Stereo"
+            ],
+            "label": [
+                "Harvest",
+                "The Gramophone Co. Ltd.",
+                "Garrod & Lofthouse",
+                "Abbey Road Studios",
+                "EMI Records"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Prog Rock",
+                "Psychedelic Rock"
+            ],
+            "id": 25983592,
+            "barcode": [
+                "1,125,555",
+                "7303",
+                "SHVL 804 A-1C",
+                "10 13"
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/25983592-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/hqcefYEPgoMtwneZhvrSsLiVqzRGwv9CLjumKeqLt9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTgz/NTkyLTE2NzU0Njc1/MzAtNjUyNS5qcGVn.jpeg",
+            "cover_image": "https://i.discogs.com/0nkmOqsK6MBSTBMldIw6QNaJGaIR3926pUfr9S8NFNU/rs:fit/g:sm/q:90/h:500/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTgz/NTkyLTE2NzU0Njc1/MzAtNjUyNS5qcGVn.jpeg",
+            "resource_url": "https://api.discogs.com/releases/25983592",
+            "community": {
+                "want": 49,
+                "have": 16
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Stereo"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Quadraphonic"
+            ],
+            "label": [
+                "Harvest",
+                "Abbey Road Studios",
+                "EMI Records Ltd."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Psychedelic Rock",
+                "Prog Rock"
+            ],
+            "id": 14894531,
+            "barcode": [
+                "QHVL.804A",
+                "QHVL.804B",
+                "QHVL 804 A-2  M  1 ",
+                "QHVL 804 B-1  P  1"
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/14894531-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "Q4SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/jxT8ldBkylfWU2-iABo5qcnAInzMUUE2oVwCMOUSB0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODk0/NTMxLTE1ODM3ODg3/OTQtNzcyNS5qcGVn.jpeg",
+            "cover_image": "https://i.discogs.com/hthFXWU9YYd1cCjLPUDxMh7EVTOrOjuef0__fV-FIcU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODk0/NTMxLTE1ODM3ODg3/OTQtNzcyNS5qcGVn.jpeg",
+            "resource_url": "https://api.discogs.com/releases/14894531",
+            "community": {
+                "want": 823,
+                "have": 299
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Gatefold Sleeve",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Quadraphonic"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Stereo"
+            ],
+            "label": [
+                "Abbey Road Studios",
+                "The Gramophone Co. Ltd.",
+                "The Gramophone Co. Ltd.",
+                "World Copyrights Ltd.",
+                "EMI",
+                "Garrod & Lofthouse Ltd.",
+                "Harvest"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Prog Rock",
+                "Psychedelic Rock"
+            ],
+            "id": 14087788,
+            "barcode": [
+                "SHVL 804 A",
+                "SHVL 804 B"
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/14087788-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/g_LyypU4fx99o6QEft9YdW3uQqAloYaHD_nx6Kbuo1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDg3/Nzg4LTE1Njc2Mjgx/NTAtNzg2OS5qcGVn.jpeg",
+            "cover_image": "https://i.discogs.com/ujpvaIU7R9RHlGvS36I10hAE-cXtpRXU2HSknhBnw8w/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDg3/Nzg4LTE1Njc2Mjgx/NTAtNzg2OS5qcGVn.jpeg",
+            "resource_url": "https://api.discogs.com/releases/14087788",
+            "community": {
+                "want": 1084,
+                "have": 330
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Stereo"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "8-Track Cartridge",
+                "Album",
+                "Quadraphonic"
+            ],
+            "label": [
+                "Harvest",
+                "Harvest",
+                "EMI Records Ltd.",
+                "EMI Records Ltd."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Prog Rock"
+            ],
+            "id": 1868009,
+            "barcode": [],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/1868009-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "Q8-SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/O2XJSr72H-6qeuFn2EKUECPR8Y8oqQpDc-h4VE8A3yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgw/MDktMTQwNTU1ODIy/OS01MzY1LmpwZWc.jpeg",
+            "cover_image": "https://i.discogs.com/ADoj2dV6Q21g_AkhTo1NVWuMLCIVNxZAxXgYU97aXac/rs:fit/g:sm/q:90/h:811/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgw/MDktMTQwNTU1ODIy/OS01MzY1LmpwZWc.jpeg",
+            "resource_url": "https://api.discogs.com/releases/1868009",
+            "community": {
+                "want": 1284,
+                "have": 22
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "8-Track Cartridge",
+                    "qty": "1",
+                    "descriptions": [
+                        "Album",
+                        "Quadraphonic"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Cassette",
+                "Album"
+            ],
+            "label": [
+                "Harvest",
+                "Harvest",
+                "The Gramophone Co. Ltd.",
+                "Pink Floyd Music Publishers Ltd.",
+                "EMI"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Prog Rock"
+            ],
+            "id": 14721874,
+            "barcode": [
+                "7304 DP"
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/14721874-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "TC-SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/1l9NrGrGJydHcsao6emk6FDqi5cueSWATzmpriErXdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/ODc0LTE1ODAzMTYy/MjMtNjI3Ny5qcGVn.jpeg",
+            "cover_image": "https://i.discogs.com/i3Qzrx_f3UZp3ShjlDhF_pJ-1Vxuro6Zq-eMQG6H86I/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/ODc0LTE1ODAzMTYy/MjMtNjI3Ny5qcGVn.jpeg",
+            "resource_url": "https://api.discogs.com/releases/14721874",
+            "community": {
+                "want": 470,
+                "have": 11
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Cassette",
+                    "qty": "1",
+                    "descriptions": [
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "8-Track Cartridge",
+                "Album"
+            ],
+            "label": [
+                "Harvest",
+                "The Gramophone Co. Ltd.",
+                "World Copyrights Ltd.",
+                "Harvest"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Prog Rock",
+                "Psychedelic Rock"
+            ],
+            "id": 21114610,
+            "barcode": [
+                "7304 DP"
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/21114610-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "8X-SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/V7t15S-sWg-2UBtD2hbX808WdxaLzY2ub3-x2K-iaNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTE0/NjEwLTE2Mzc4MzA1/NjQtNTk4MS5qcGVn.jpeg",
+            "cover_image": "https://i.discogs.com/8yf0Dfcv7nSjYykxSN7kUqV8qvBWf4xgTQnxurguSyg/rs:fit/g:sm/q:90/h:819/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTE0/NjEwLTE2Mzc4MzA1/NjQtNTk4MS5qcGVn.jpeg",
+            "resource_url": "https://api.discogs.com/releases/21114610",
+            "community": {
+                "want": 131,
+                "have": 1
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "8-Track Cartridge",
+                    "qty": "1",
+                    "text": "Black Cartridge, U-Card",
+                    "descriptions": [
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Repress"
+            ],
+            "label": [
+                "Harvest",
+                "Harvest",
+                "Garrod & Lofthouse",
+                "Abbey Road Studios",
+                "World Copyrights Ltd.",
+                "The Gramophone Co. Ltd.",
+                "EMI Records Ltd."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Psychedelic Rock",
+                "Prog Rock"
+            ],
+            "id": 13998870,
+            "barcode": [
+                "SHVL 804 A-3",
+                "SHVL 804 B-3",
+                "SHVL 804 B-2",
+                "SHVL 804 A-5",
+                "SHVL 804 B-5",
+                "SHVL 804 A-4",
+                "SHVL 804 B-3"
+            ],
+            "master_id": 0,
+            "master_url": null,
+            "uri": "/release/13998870-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "",
+            "cover_image": "https://st.discogs.com/1ae136673a0af3a1b4c71d209eae4ffee7b28083/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/releases/13998870",
+            "community": {
+                "want": 0,
+                "have": 0
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Repress"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Cassette",
+                "Album"
+            ],
+            "label": [
+                "Harvest",
+                "Harvest",
+                "The Gramophone Co. Ltd.",
+                "Pink Floyd Music Publishers Ltd.",
+                "EMI"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Prog Rock"
+            ],
+            "id": 10049537,
+            "barcode": [
+                "7304 DP"
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/10049537-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "TC-SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/JpkLi5TUsevH-y0ai9o_cSUw2UbYzQXX__D7oOs1280/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQ5/NTM3LTE1MDk1NTQw/ODQtMjM0Ni5qcGVn.jpeg",
+            "cover_image": "https://i.discogs.com/X_LxPMhRtvpQivnqcGfBY-WVMAX_BFfnWwqx8SK5fUo/rs:fit/g:sm/q:90/h:795/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQ5/NTM3LTE1MDk1NTQw/ODQtMjM0Ni5qcGVn.jpeg",
+            "resource_url": "https://api.discogs.com/releases/10049537",
+            "community": {
+                "want": 838,
+                "have": 62
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Cassette",
+                    "qty": "1",
+                    "descriptions": [
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Reissue"
+            ],
+            "label": [
+                "Harvest",
+                "Harvest",
+                "Garrod & Lofthouse",
+                "The Gramophone Co. Ltd."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Psychedelic Rock",
+                "Prog Rock"
+            ],
+            "id": 4969785,
+            "barcode": [
+                "[stamped] SHVL 804 A-3",
+                "[stamped] SHVL 804 B-2"
+            ],
+            "master_id": 0,
+            "master_url": null,
+            "uri": "/release/4969785-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/U_o2FB2NTB35_5xuUYPL780EDaKDjVCGJFSRJzM6WRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Njk3/ODUtMTQ0NTE2MzY3/MC04NzIyLmpwZWc.jpeg",
+            "cover_image": "https://i.discogs.com/BBojMHyxRzCUwSsSAbHII6cmHfl5G_KOZm9N8n6K7Ns/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Njk3/ODUtMTQ0NTE2MzY3/MC04NzIyLmpwZWc.jpeg",
+            "resource_url": "https://api.discogs.com/releases/4969785",
+            "community": {
+                "want": 8,
+                "have": 7
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Crossover Pressing, 2nd issue",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Reissue"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Cassette",
+                "Album",
+                "Reissue"
+            ],
+            "label": [
+                "Harvest",
+                "Harvest",
+                "The Gramophone Co. Ltd.",
+                "Pink Floyd Music Publishers Ltd.",
+                "EMI"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Prog Rock"
+            ],
+            "id": 2473535,
+            "barcode": [
+                "7304 DP"
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/2473535-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "TC-SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/EkSg8uFjPacYreojDIT0NHEE68l1JsHZVMA9SoQG8W0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzM1/MzUtMTQ2OTAwOTU0/OS04Mzc5LmpwZWc.jpeg",
+            "cover_image": "https://i.discogs.com/ktpgIFXsXqP-FDfB1qcRq-INoTL_vyKXfYT_qZEd_Rw/rs:fit/g:sm/q:90/h:790/w:489/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzM1/MzUtMTQ2OTAwOTU0/OS04Mzc5LmpwZWc.jpeg",
+            "resource_url": "https://api.discogs.com/releases/2473535",
+            "community": {
+                "want": 1201,
+                "have": 151
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Cassette",
+                    "qty": "1",
+                    "text": "White Paper Labels",
+                    "descriptions": [
+                        "Album",
+                        "Reissue"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Cassette",
+                "Album"
+            ],
+            "label": [
+                "Harvest",
+                "Harvest",
+                "The Gramophone Co. Ltd.",
+                "Pink Floyd Music Publishers Ltd.",
+                "EMI",
+                "Data Packaging Corporation"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Prog Rock"
+            ],
+            "id": 19137055,
+            "barcode": [
+                "7304 DP"
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/19137055-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "TC-SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/YqGCTm0T57q1PmZwwb5deVaXRITtzp5rU6fd5CuE5FM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTM3/MDU1LTE2MjM2NzE3/NzktNDc1MC5qcGVn.jpeg",
+            "cover_image": "https://i.discogs.com/EJ3bSxnyXqip3Qgq3LYWrV-iQ-zRAj-KEKmNa2NdmZ4/rs:fit/g:sm/q:90/h:942/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTM3/MDU1LTE2MjM2NzE3/NzktNDc1MC5qcGVn.jpeg",
+            "resource_url": "https://api.discogs.com/releases/19137055",
+            "community": {
+                "want": 210,
+                "have": 4
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Cassette",
+                    "qty": "1",
+                    "text": "Blue Cassette, Green Paper Labels",
+                    "descriptions": [
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Harvest",
+                "Harvest",
+                "The Gramophone Co. Ltd.",
+                "The Gramophone Co. Ltd.",
+                "Garrod & Lofthouse Ltd.",
+                "EMI Records",
+                "Garrod & Lofthouse Ltd.",
+                "World Copyrights Ltd.",
+                "Abbey Road Studios"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Psychedelic Rock",
+                "Prog Rock"
+            ],
+            "id": 2655031,
+            "barcode": [
+                "SHVL804A",
+                "SHVL804B",
+                "L 7303",
+                "SHVL 804 A-3 1 GLL",
+                "SHVL 804 B-2 4 GLH",
+                "SHVL 804 A-3 \u01b8 RTD",
+                "SHVL 804 B-3 2 PH",
+                "SHVL 804 A-3  GAM",
+                "SHVL 804 B-3  MP",
+                "SHVL 804 A-3  GLM 2",
+                "SHVL 804 B-3  GR 1",
+                "SHVL 804 A-3 GPD 3",
+                "SHVL 804 B-3 OP 1",
+                "SHVL 804 A-3 GLR",
+                "SHVL 804 B-2 GAL",
+                "SHVL 804 A-3 GHG",
+                "SHVL 804 B-2 DOG",
+                "SHVL 804 A-2",
+                "SHVL 804 B-2",
+                "SHVL 804 A-3 AMA & 2",
+                "SHVL 804 B-3 0 11 C :",
+                "SHVL 804 A-3 RGR 5",
+                "SHVL 804 B-3 GA 2",
+                "SHVL 804 A-3 LMR 3",
+                "SHVL 804 B-3 T 1",
+                "SHVL 804 A-3 ROA 2",
+                "SHVL 804 B-3 0 1",
+                "SHVL 804 A-6 GGG \u2234 2",
+                "SHVL 804 B-4 PG 3",
+                "SHVL 804 A-3 GHM \u2234 3",
+                "SHVL 804 B-2 GRD 1",
+                "SHVL 804 A-3 \u01b8 GT R",
+                "SHVL 804 B-3 2 RT ",
+                "SHVL 804 A-3 RPT 5",
+                "SHVL 804 B-3 GOH 5",
+                "SHVL 804 A-3 RGR 2",
+                "SHVL 804 B-3 GL 1",
+                "SHVL 804 A-3 RAA 1",
+                "SHVL 804 B-2 RRW",
+                "SHVL 804 A-3 ARH",
+                "SHVL 804 B-3 GHT"
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/2655031-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/uV0eynh7r3lpP3WlxVyocUp0Fvq9Vc50O1mO86ruU8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTUw/MzEtMTY0NjA1OTM0/NC00MzE3LmpwZWc.jpeg",
+            "cover_image": "https://i.discogs.com/LuZvRVTVOw5v--Glh53TST_Y7q_7a_cVB6bC9Kpl9sE/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTUw/MzEtMTY0NjA1OTM0/NC00MzE3LmpwZWc.jpeg",
+            "resource_url": "https://api.discogs.com/releases/2655031",
+            "community": {
+                "want": 2622,
+                "have": 3629
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "2nd issue",
+                    "descriptions": [
+                        "LP",
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Harvest",
+                "Harvest",
+                "The Gramophone Co. Ltd.",
+                "Abbey Road Studios",
+                "The Gramophone Co. Ltd.",
+                "World Copyrights Ltd.",
+                "The Gramophone Co. Ltd.",
+                "EMI Records Ltd.",
+                "Garrod & Lofthouse Ltd."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Prog Rock",
+                "Psychedelic Rock"
+            ],
+            "id": 12168374,
+            "barcode": [
+                "SHVL 804A",
+                "SHVL 804B",
+                "SHVL 804 A-2",
+                "SHVL 804 B-2",
+                "1",
+                "G [or higher]",
+                "\u24c1 7303 TPS",
+                "1125555 1072844"
+            ],
+            "master_id": 0,
+            "master_url": null,
+            "uri": "/release/12168374-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "",
+            "cover_image": "https://st.discogs.com/1ae136673a0af3a1b4c71d209eae4ffee7b28083/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/releases/12168374",
+            "community": {
+                "want": 0,
+                "have": 0
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Gatefold Sleeve",
+                    "descriptions": [
+                        "LP",
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Quadraphonic"
+            ],
+            "label": [
+                "Harvest",
+                "EMI",
+                "EMI",
+                "EMI Records Ltd.",
+                "Abbey Road Studios",
+                "EMI Records",
+                "Garrod & Lofthouse Ltd."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Psychedelic Rock",
+                "Prog Rock"
+            ],
+            "id": 1830381,
+            "barcode": [
+                "QHVL.804A",
+                "QHVL.804B",
+                "QHVL 804 A-2   RP",
+                "QHVL 804 B-1   RH",
+                "QHVL 804 A-1 G 1",
+                "QHVL 804 B-1 R 1",
+                "QHVL 804 A-3 HLM 1",
+                "QHVL 804 B-1 A A 2",
+                "QHVL 804 A-2   MR  1",
+                "QHVL 804 B-1   RR  2",
+                "QHVL 804 A-2  GP  1",
+                "QHVL 804 B-1  GH  2",
+                "QHVL 804 A-2  AD",
+                "QHVL 804 B-1  GG 2 ",
+                "QHVL 804 A-2 AP",
+                "QHVL 804 B-1 AR 2"
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/1830381-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "Q4SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/9iqj4bz41c_169LHcag2FmKeFS3nir5Sy_CCPTJq0iE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzAz/ODEtMTMwMTc0MDQ5/Mi5qcGVn.jpeg",
+            "cover_image": "https://i.discogs.com/HAw4QKQzUHRh4DuT-RtJBOSZUafG4uMEXdYAWs3ZSJc/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzAz/ODEtMTMwMTc0MDQ5/Mi5qcGVn.jpeg",
+            "resource_url": "https://api.discogs.com/releases/1830381",
+            "community": {
+                "want": 2739,
+                "have": 2497
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Gatefold ",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Quadraphonic"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Repress"
+            ],
+            "label": [
+                "Harvest",
+                "Harvest",
+                "EMI Records Ltd.",
+                "The Gramophone Co. Ltd.",
+                "Abbey Road Studios",
+                "Garrod & Lofthouse Ltd.",
+                "Garrod & Lofthouse Ltd.",
+                "Pink Floyd Music Publishers Ltd.",
+                "EMI Records"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Psychedelic Rock",
+                "Prog Rock"
+            ],
+            "id": 16023710,
+            "barcode": [
+                "SHVL 804A",
+                "SHVL 804B",
+                "SHVL 804 A-5 LG \u2234 3",
+                "SHVL 804 B-5 HL 3",
+                "SHVL 804 A - 5 LL \u2234 5",
+                "SHVL 804 B - 5 GGO 4",
+                "SHVL 804 A-5 GHA \u2234 5",
+                "SHVL 804 B-5 GPP 4",
+                "SHVL 804 A-4 PL1 ",
+                "SHVL 804 B-3 RHT 2 3 ",
+                "SHVL 804 A-5 RRP \u2234 7 RF",
+                "SHVL 804 B-5 RRL 7 RF",
+                "SHVL 804 A-5 HP \u2234 3",
+                "SHVL 804 B-5 PG 4",
+                "SHVL 804 A-5 GAD 3",
+                "SHVL 804 B-5 GRO 5",
+                "SHVL 804 A-5 P \u2234 2",
+                "SHVL 804 B-5 C I",
+                "SHVL 804 A-5 RPT \u2234 7",
+                "SHVL 804 B-5  R\u0245\ua74e  7",
+                "L 7303 TPS"
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/16023710-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/-pLkxrtHgE306uQNmBgdJ9Et7-KhmpwGRvKrbDtguak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIz/NzEwLTE2MDIxMTM5/MjItNzkyMi5qcGVn.jpeg",
+            "cover_image": "https://i.discogs.com/JrlvhrdxSE1zJSc65ivrCGMzMtIKQkI-quRvIzVMebs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIz/NzEwLTE2MDIxMTM5/MjItNzkyMi5qcGVn.jpeg",
+            "resource_url": "https://api.discogs.com/releases/16023710",
+            "community": {
+                "want": 811,
+                "have": 1483
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "5th, Gatefold",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Repress"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Harvest",
+                "Harvest",
+                "The Gramophone Co. Ltd.",
+                "Abbey Road Studios",
+                "The Gramophone Co. Ltd.",
+                "World Copyrights Ltd.",
+                "The Gramophone Co. Ltd.",
+                "EMI Records Ltd.",
+                "Garrod & Lofthouse Ltd."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Prog Rock",
+                "Psychedelic Rock"
+            ],
+            "id": 12168368,
+            "barcode": [
+                "SHVL 804A",
+                "SHVL 804B",
+                "SHVL 804 A-2",
+                "SHVL 804 B-2",
+                "1",
+                "G [or higher]",
+                "\u24c1 7303 TPS",
+                "1125555 1072844"
+            ],
+            "master_id": 0,
+            "master_url": null,
+            "uri": "/release/12168368-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "",
+            "cover_image": "https://st.discogs.com/1ae136673a0af3a1b4c71d209eae4ffee7b28083/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/releases/12168368",
+            "community": {
+                "want": 0,
+                "have": 0
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Gatefold Sleeve",
+                    "descriptions": [
+                        "LP",
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Harvest",
+                "Harvest",
+                "The Gramophone Co. Ltd.",
+                "Abbey Road Studios",
+                "The Gramophone Co. Ltd.",
+                "World Copyrights Ltd.",
+                "The Gramophone Co. Ltd.",
+                "EMI Records Ltd.",
+                "Garrod & Lofthouse Ltd."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Prog Rock",
+                "Psychedelic Rock"
+            ],
+            "id": 11521183,
+            "barcode": [
+                "SHVL 804A",
+                "SHVL 804B",
+                "SHVL 804 A-2",
+                "SHVL 804 B-2",
+                "1",
+                "G [or higher]",
+                "\u24c1 7303 TPS",
+                "1125555 1072844"
+            ],
+            "master_id": 0,
+            "master_url": null,
+            "uri": "/release/11521183-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "",
+            "cover_image": "https://st.discogs.com/1ae136673a0af3a1b4c71d209eae4ffee7b28083/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/releases/11521183",
+            "community": {
+                "want": 0,
+                "have": 0
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Gatefold Sleeve",
+                    "descriptions": [
+                        "LP",
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Mispress",
+                "Misprint",
+                "Quadraphonic"
+            ],
+            "label": [
+                "Harvest",
+                "Harvest",
+                "The Gramophone Co. Ltd.",
+                "Abbey Road Studios",
+                "The Gramophone Co. Ltd.",
+                "World Copyrights Ltd.",
+                "The Gramophone Co. Ltd.",
+                "EMI Records Ltd.",
+                "Garrod & Lofthouse Ltd."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Prog Rock"
+            ],
+            "id": 10650267,
+            "barcode": [
+                "SHVL 804",
+                "SHVL 804 ",
+                "SHVL 804 A-9",
+                "QHVL 804 B-1",
+                "3",
+                "G [or higher]",
+                "4",
+                "HTM"
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/10650267-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/yu_vmw6KYvWo9o489B-IcEZUPrV2wnMfsATWlFYrD4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjUw/MjY3LTE1MDE3Nzkz/ODUtNjMzNy5qcGVn.jpeg",
+            "cover_image": "https://i.discogs.com/fO-qOGKHNB1A5AX_uxh4G2ESg07rylEP3QvYZ14SZ9A/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjUw/MjY3LTE1MDE3Nzkz/ODUtNjMzNy5qcGVn.jpeg",
+            "resource_url": "https://api.discogs.com/releases/10650267",
+            "community": {
+                "want": 1090,
+                "have": 143
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Gatefold Sleeve",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Mispress",
+                        "Misprint",
+                        "Quadraphonic"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Harvest",
+                "Harvest",
+                "The Gramophone Co. Ltd.",
+                "Abbey Road Studios",
+                "The Gramophone Co. Ltd.",
+                "World Copyrights Ltd.",
+                "The Gramophone Co. Ltd.",
+                "EMI Records Ltd.",
+                "Garrod & Lofthouse Ltd."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Prog Rock",
+                "Psychedelic Rock"
+            ],
+            "id": 12421424,
+            "barcode": [
+                "SHVL 804A",
+                "SHVL 804B",
+                "SHVL 804 A-3 RGD 1",
+                "SHVL 804 B-2 GLT 1",
+                "\u24c1 7303 TPS",
+                "1125555 1072844"
+            ],
+            "master_id": 0,
+            "master_url": null,
+            "uri": "/release/12421424-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "",
+            "cover_image": "https://st.discogs.com/1ae136673a0af3a1b4c71d209eae4ffee7b28083/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/releases/12421424",
+            "community": {
+                "want": 0,
+                "have": 0
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Gatefold Sleeve",
+                    "descriptions": [
+                        "LP",
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Harvest",
+                "Harvest",
+                "The Gramophone Co. Ltd.",
+                "Abbey Road Studios",
+                "The Gramophone Co. Ltd.",
+                "World Copyrights Ltd.",
+                "The Gramophone Co. Ltd.",
+                "EMI Records Ltd.",
+                "Garrod & Lofthouse Ltd."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Prog Rock",
+                "Psychedelic Rock"
+            ],
+            "id": 12296999,
+            "barcode": [
+                "SHVL 804A",
+                "SHVL 804B",
+                "SHVL 804 A-2",
+                "SHVL 804 B-2",
+                "1",
+                "G [or higher]",
+                "\u24c1 7303 TPS",
+                "1125555 1072844"
+            ],
+            "master_id": 0,
+            "master_url": null,
+            "uri": "/Pink-Floyd-The-Dark-Side-Of-The-Moon/release/12296999",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "",
+            "cover_image": "https://st.discogs.com/1ae136673a0af3a1b4c71d209eae4ffee7b28083/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/releases/12296999",
+            "community": {
+                "want": 0,
+                "have": 0
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Gatefold Sleeve",
+                    "descriptions": [
+                        "LP",
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Repress",
+                "Stereo"
+            ],
+            "label": [
+                "Harvest",
+                "Harvest",
+                "EMI Records Ltd.",
+                "The Gramophone Co. Ltd.",
+                "World Copyrights Ltd.",
+                "EMI Records",
+                "Garrod & Lofthouse Ltd.",
+                "Garrod & Lofthouse Ltd.",
+                "Trade Platemaking Services",
+                "Abbey Road Studios"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Prog Rock",
+                "Psychedelic Rock"
+            ],
+            "id": 15370292,
+            "barcode": [
+                "\u24c1 7303 TPS",
+                "1,125,555,",
+                "SHVL 804A",
+                "SHVL 804B",
+                "SHVL 804 A-3",
+                "SHVL 804 B-3",
+                "SHVL 804 A-3 AHR 1",
+                "SHVL 804 B-3 GPM 1"
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/15370292-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/eGnECt0PVyfm23GAjCfNcUs4EFfSx0_VhS2rH7R9Vis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzcw/MjkyLTE1OTg5NTk2/MTAtNjYwMy5qcGVn.jpeg",
+            "cover_image": "https://i.discogs.com/mnLMzP8ySQcUkUXs9lYK04WJE3JqpdchcnaKxmP2Lrk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzcw/MjkyLTE1OTg5NTk2/MTAtNjYwMy5qcGVn.jpeg",
+            "resource_url": "https://api.discogs.com/releases/15370292",
+            "community": {
+                "want": 803,
+                "have": 891
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Gatefold",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Repress",
+                        "Stereo"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Harvest",
+                "Harvest",
+                "The Gramophone Co. Ltd.",
+                "Abbey Road Studios",
+                "The Gramophone Co. Ltd.",
+                "World Copyrights Ltd.",
+                "The Gramophone Co. Ltd.",
+                "EMI Records",
+                "Garrod & Lofthouse Ltd.",
+                "Garrod & Lofthouse Ltd."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Prog Rock",
+                "Psychedelic Rock"
+            ],
+            "id": 21696610,
+            "barcode": [
+                "(SHVL 804A)",
+                "(SHVL 804B)",
+                "\u24c1 7303 TPS",
+                "1125555 1072844",
+                "SHLV 804 A-2",
+                "SHLV 804 B-2",
+                "SHVL 804 A-2 G 1",
+                "SHVL 804 B-2 G 1",
+                "SHVL 804 A-2 ML 2",
+                "SHVL 804 B-2 RG 2",
+                "SHVL 804 A-2 GGT",
+                "SHVL 804 B-2 HP",
+                "SHVL 804 A-2 GG 1",
+                "SHVL 804 B-2 RM 2",
+                "SHVL 804 A-2 OA  3",
+                "SHVL 804 B-2 HG 1",
+                "SHVL 804-A",
+                "SHVL 804-B",
+                "SHVL 804 A-2 PD 3",
+                "SHVL 804 B-2 GH 3",
+                "SHVL 804 A-2 OP 2",
+                "SHVL 804 B-2 MG 3",
+                "SHVL 804 A-2 GH ",
+                "SHVL 804 B-2 PL 01",
+                "SHVL 804 A-2 OD 2",
+                "SHVL 804 B-2 H 2",
+                "SHVL 804 A-2 HO c1",
+                "SHVL 804 B-2 HL c1"
+            ],
+            "master_id": 0,
+            "master_url": null,
+            "uri": "/release/21696610-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "",
+            "cover_image": "https://st.discogs.com/1ae136673a0af3a1b4c71d209eae4ffee7b28083/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/releases/21696610",
+            "community": {
+                "want": 0,
+                "have": 0
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Gatefold Sleeve",
+                    "descriptions": [
+                        "LP",
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Harvest",
+                "Harvest",
+                "The Gramophone Co. Ltd.",
+                "Abbey Road Studios",
+                "The Gramophone Co. Ltd.",
+                "World Copyrights Ltd.",
+                "The Gramophone Co. Ltd.",
+                "EMI Records Ltd.",
+                "Garrod & Lofthouse Ltd.",
+                "Garrod & Lofthouse Ltd."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Prog Rock",
+                "Psychedelic Rock"
+            ],
+            "id": 17154247,
+            "barcode": [
+                "(SHVL 804A)",
+                "(SHVL 804B)",
+                "\u24c1 7303 TPS",
+                "1125555 1072844",
+                "SHVL 804 A-2 G 1",
+                "SHVL 804 B-2 G 1",
+                "SHVL 804 A-2 ML 2",
+                "SHVL 804 B-2 RG 2",
+                "SHVL 804 A-2 GGT",
+                "SHVL 804 B-2 HP",
+                "SHVL 804 A-2 GG 1",
+                "SHVL 804 B-2 RM 2",
+                "SHVL 804 A-2 OA  3",
+                "SHVL 804 B-2 HG 1",
+                "SHVL 804-A",
+                "SHVL 804-B",
+                "SHVL 804 A-2 PD 3",
+                "SHVL 804 B-2 GH 3",
+                "SHVL 804 A-2 OP 2",
+                "SHVL 804 B-2 MG 3"
+            ],
+            "master_id": 0,
+            "master_url": null,
+            "uri": "/release/17154247-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "",
+            "cover_image": "https://st.discogs.com/1ae136673a0af3a1b4c71d209eae4ffee7b28083/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/releases/17154247",
+            "community": {
+                "want": 2,
+                "have": 0
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Gatefold Sleeve",
+                    "descriptions": [
+                        "LP",
+                        "Album"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Stereo"
+            ],
+            "label": [
+                "Harvest",
+                "Harvest",
+                "EMI",
+                "E.M.I. Records",
+                "The Gramophone Co. Ltd.",
+                "Abbey Road Studios",
+                "The Gramophone Co. Ltd.",
+                "World Copyrights Ltd.",
+                "The Gramophone Co. Ltd.",
+                "EMI Records",
+                "Garrod & Lofthouse Ltd.",
+                "Garrod & Lofthouse Ltd."
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Prog Rock",
+                "Psychedelic Rock"
+            ],
+            "id": 1873013,
+            "barcode": [
+                "\u24c1 7303 TPS",
+                "1125555 1072844",
+                "SHVL 804A",
+                "SHVL 804B",
+                "SHVL 804 A-2 G 1",
+                "SHVL 804 B-2 G 1",
+                "SHVL 804 A-2 ML 2",
+                "SHVL 804 B-2 RG 2",
+                "SHVL 804 A-2 GGT",
+                "SHVL 804 B-2 HP",
+                "SHVL 804 A-2 GG 1",
+                "SHVL 804 B-2 RM 2",
+                "SHVL 804 A-2 OA  3",
+                "SHVL 804 B-2 HG 1",
+                "SHLV 804 A-2",
+                "SHLV 804 B-2",
+                "SHVL 804 A-2 PD 3",
+                "SHVL 804 B-2 GH 3",
+                "SHVL 804 A-2 OP 2",
+                "SHVL 804 B-2 MG 3",
+                "SHVL 804 A-2 GH ",
+                "SHVL 804 B-2 PL 01",
+                "SHVL 804 A-2 OD 2",
+                "SHVL 804 B-2 H 2",
+                "SHVL 804 A-2 HO c1",
+                "SHVL 804 B-2 HL c1",
+                "SHVL 804 A-2 PG 2",
+                "SHVL 804 B-2 PT 2",
+                " SHVL804 A-2 MD 2",
+                "SHVL804 B-2 OH 1"
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/1873013-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/r9Anyhs7ZGkP94yyij_JBYE-fgH7Cl4j6fG-OP1QLdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzMw/MTMtMTY2NzIwODk0/MC01NTc3LmpwZWc.jpeg",
+            "cover_image": "https://i.discogs.com/x-k0ky0bhcRIlzuz7OKagXncWwoaQXiBM7Tfc2LW8hY/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzMw/MTMtMTY2NzIwODk0/MC01NTc3LmpwZWc.jpeg",
+            "resource_url": "https://api.discogs.com/releases/1873013",
+            "community": {
+                "want": 13025,
+                "have": 19364
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "Gatefold Sleeve",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Stereo"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Stereo"
+            ],
+            "label": [
+                "Harvest",
+                "Harvest",
+                "The Gramophone Co. Ltd.",
+                "Path\u00e9 Marconi",
+                "Garrod & Lofthouse",
+                "Abbey Road Studios",
+                "Path\u00e9 Marconi EMI, Chatou",
+                "Path\u00e9 Marconi EMI, Chatou"
+            ],
+            "type": "release",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Psychedelic Rock",
+                "Prog Rock"
+            ],
+            "id": 3047604,
+            "barcode": [
+                "05249 A 21 M6 291629",
+                "12",
+                "05249 B 21 M6 291630",
+                "6"
+            ],
+            "master_id": 10362,
+            "master_url": "https://api.discogs.com/masters/10362",
+            "uri": "/release/3047604-Pink-Floyd-The-Dark-Side-Of-The-Moon",
+            "catno": "SHVL 804",
+            "title": "Pink Floyd - The Dark Side Of The Moon",
+            "thumb": "https://i.discogs.com/VrD33JHbocfcwg09H2iFs-2goQ7s4G-jqhxM-x0iiWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDc2/MDQtMTMxMzI2Nzkx/OC5qcGVn.jpeg",
+            "cover_image": "https://i.discogs.com/uZhRxg-Rc9MQkg4H9pBfa8VpCjTcPYQBxhOuZ64HTis/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDc2/MDQtMTMxMzI2Nzkx/OC5qcGVn.jpeg",
+            "resource_url": "https://api.discogs.com/releases/3047604",
+            "community": {
+                "want": 1825,
+                "have": 1356
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "French Pressing, Gatefold",
+                    "descriptions": [
+                        "LP",
+                        "Album",
+                        "Stereo"
+                    ]
+                }
+            ]
+        }
+    ]
+}
