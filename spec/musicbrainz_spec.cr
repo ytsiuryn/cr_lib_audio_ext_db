@@ -1,8 +1,9 @@
 require "spec"
-require "../src/musicbrainz/release"
+require "core"
+require "../src/musicbrainz"
 
 it "Musicbrainz#release" do
-  r = parse_release(File.read("spec/data/musicbrainz/release.json"))
+  r = parse_musicbrainz_release(File.read("spec/data/musicbrainz/release.json"))
 
   r.title.should eq "The Dark Side of the Moon"
   r.roles["Pink Floyd"].should eq Set{"performer"}

@@ -1,28 +1,28 @@
 require "json"
 require "core"
 
-class Thumbnail
+class MusicbrainzThumbnail
   include JSON::Serializable
 
   getter large : String
 end
 
-class ImageInfo
+class MusicbrainzImageInfo
   include JSON::Serializable
 
-  getter thumbnails : Thumbnail
+  getter thumbnails : MusicbrainzThumbnail
   getter comment : String
   getter types : Array(String)
 end
 
-struct CoverInfo
+struct MusicbrainzCoverInfo
   include JSON::Serializable
 
-  getter images : Array(ImageInfo)
+  getter images : Array(MusicbrainzImageInfo)
 end
 
-def parse_picture(json : String) : PictureInAudio | Nil
-  in_p = CoverInfo.from_json(json)
+def parse_musicbrainz_picture(json : String) : PictureInAudio | Nil
+  in_p = MusicbrainzCoverInfo.from_json(json)
   in_p.images.each do |in_img|
     in_img.types.each do |img_type|
       if img_type == "Front"

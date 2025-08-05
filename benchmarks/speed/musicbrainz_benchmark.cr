@@ -1,7 +1,8 @@
 require "benchmark"
-require "../../src/musicbrainz/search"
-require "../../src/musicbrainz/release"
+require "../../src/musicbrainz"
 
 Benchmark.ips do |x|
-  x.report("Raw JSON parsing") { File.open("spec/data/musicbrainz/release.json") { |f| ri = JSON.parse(f) } }
+  x.report("Musicbrainz release JSON parsing") { 
+    parse_musicbrainz_release(File.read("spec/data/musicbrainz/release.json")) 
+  }
 end

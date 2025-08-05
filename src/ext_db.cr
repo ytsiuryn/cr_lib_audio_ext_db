@@ -1,0 +1,2 @@
+require "./discogs"
+require "./musicbrainz"

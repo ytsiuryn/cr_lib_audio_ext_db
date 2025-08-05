@@ -1,5 +1,5 @@
 name: ext_db
-version: 0.1.0
+version: 0.1.1
 
 authors:
   - Yuri Tsiuryn <yuri.turin@gmail.com>
@@ -13,6 +13,6 @@ dependencies:
   core:
     path: "../core"
 
-# development_dependencies:
-#   ameba:
-#     github: crystal-ameba/ameba
+development_dependencies:
+  ameba:
+    github: crystal-ameba/ameba

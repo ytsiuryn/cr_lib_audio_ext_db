@@ -2,37 +2,32 @@ require "json"
 require "core"
 require "./common"
 
-class ReleaseSearchItem
+class MusicbrainzReleaseSearchItem
   include JSON::Serializable
 
-  @[JSON::Field(ignore_serialize: true)]
   getter id : String
-  @[JSON::Field(ignore_serialize: true)]
   getter title : String
-  @[JSON::Field(ignore_serialize: true)]
   getter status : String
-  @[JSON::Field(key: "artist-credir", ignore_serialize: true)]
-  getter artist_credit : Array(ArtistCredit)
+  @[JSON::Field(key: "artist-credir")]
+  getter artist_credit : Array(MusicbrainzArtistCredit)
   # ReleaseGroup ShortReleaseGroup `json:"release-group"`
-  @[JSON::Field(ignore_serialize: true)]
   getter barcode : String?
-  @[JSON::Field(key: "label-info", ignore_serialize: true)]
-  getter label_info : Array(LabelInfo)?
+  @[JSON::Field(key: "label-info")]
+  getter label_info : Array(MusicbrainzLabelInfo)?
 end
 
-struct ReleaseSearchResult
+struct MusicbrainzReleaseSearchResult
   include JSON::Serializable
 
-  @[JSON::Field(ignore_serialize: true)]
-  getter releases : Array(ReleaseSearchItem)
+  getter releases : Array(MusicbrainzReleaseSearchItem)
 end
 
-def parse_search(json : String) : Array(Release)
-  in_rs = ReleaseSearchResult.from_json(json)
+def parse_musicbrainz_search(json : String) : Array(Release)
+  in_rs = MusicbrainzReleaseSearchResult.from_json(json)
   in_rs.releases.reduce(Array(Release).new(in_rs.releases.size)) { |ret, in_r| ret << release(in_r) }
 end
 
-private def release(in_r : ReleaseSearchItem) : Release
+private def release(in_r : MusicbrainzReleaseSearchItem) : Release
   r = Release.new
 
   r.ids[ReleaseIdType::MUSICBRAINZ] = in_r.id

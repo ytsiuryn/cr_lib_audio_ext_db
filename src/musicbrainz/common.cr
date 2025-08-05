@@ -1,51 +1,43 @@
 require "json"
 require "core"
 
-struct Genre
+struct MusicbrainzGenre
   include JSON::Serializable
 
   getter name : String
 end
 
-class Artist
+class MusicbrainzArtist
   include JSON::Serializable
 
-  @[JSON::Field(ignore_serialize: true)]
   getter id : String
-  @[JSON::Field(ignore_serialize: true)]
   getter disambiguation : String
-  @[JSON::Field(ignore_serialize: true)]
   getter name : String
 end
 
-class ArtistCredit
+class MusicbrainzArtistCredit
   include JSON::Serializable
 
-  @[JSON::Field(ignore_serialize: true)]
-  getter artist : Artist
+  getter artist : MusicbrainzArtist
 end
 
-class LabelInfo
+class MusicbrainzLabelInfo
   include JSON::Serializable
 
-  @[JSON::Field(key: "catalog-number", ignore_serialize: true)]
+  @[JSON::Field(key: "catalog-number")]
   getter catalog_number : String?
-  @[JSON::Field(ignore_serialize: true)]
-  getter label : Artist
+  getter label : MusicbrainzArtist
 end
 
-class RecordingRelation
+class MusicbrainzRecordingRelation
   include JSON::Serializable
 
-  @[JSON::Field(ignore_serialize: true)]
   getter attributes : Array(String)
-  @[JSON::Field(ignore_serialize: true)]
   getter type : String
-  @[JSON::Field(ignore_serialize: true)]
-  getter artist : Artist
+  getter artist : MusicbrainzArtist
 end
 
-def add_performer(ac : ArtistCredit, r : Release) : Nil
+def add_performer(ac : MusicbrainzArtistCredit, r : Release) : Nil
   if actor = ac.artist.name
     r.actors[actor] = IDs.new
     r.actors[actor][OnlineDB::MUSICBRAINZ] = ac.artist.id
@@ -53,7 +45,7 @@ def add_performer(ac : ArtistCredit, r : Release) : Nil
   end
 end
 
-def label_info(in_lbl : LabelInfo, r : Release) : Nil
+def label_info(in_lbl : MusicbrainzLabelInfo, r : Release) : Nil
   ll = r.issues.actual.label(in_lbl.label.name)
   lb = ll || Label.new(in_lbl.label.name)
   lb.ids[OnlineDB::MUSICBRAINZ] = in_lbl.label.id
@@ -63,7 +55,7 @@ def label_info(in_lbl : LabelInfo, r : Release) : Nil
   r.issues.actual.add_label(lb)
 end
 
-def add_actor(actor : RecordingRelation, r : Release, t : Track) : Nil
+def add_actor(actor : MusicbrainzRecordingRelation, r : Release, t : Track) : Nil
   name = actor.artist.name
   return if name.empty?
   roles = Array(String).new

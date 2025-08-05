@@ -2,88 +2,67 @@ require "json"
 require "core"
 require "./common"
 
-struct InRelease
+struct MusicbrainzInRelease
   include JSON::Serializable
 
-  @[JSON::Field(ignore_serialize: true)]
   getter annotation : String?
-  @[JSON::Field(ignore_serialize: true)]
   getter country : String?
-  @[JSON::Field(ignore_serialize: true)]
   getter barcode : String?
-  @[JSON::Field(ignore_serialize: true)]
   getter title : String
-  @[JSON::Field(ignore_serialize: true)]
   getter id : String
-  @[JSON::Field(key: "label-info", ignore_serialize: true)]
-  getter label_info : Array(LabelInfo)
-  @[JSON::Field(ignore_serialize: true)]
+  @[JSON::Field(key: "label-info")]
+  getter label_info : Array(MusicbrainzLabelInfo)
   getter date : String
-  @[JSON::Field(ignore_serialize: true)]
-  getter media : Array(InDisc)
-  @[JSON::Field(key: "release-group", ignore_serialize: true)]
-  getter release_group : InReleaseGroup
-  @[JSON::Field(key: "artist-credit", ignore_serialize: true)]
-  getter artist_credit : Array(ArtistCredit)
-  @[JSON::Field(ignore_serialize: true)]
+  getter media : Array(MusicbrainzInDisc)
+  @[JSON::Field(key: "release-group")]
+  getter release_group : MusicbrainzInReleaseGroup
+  @[JSON::Field(key: "artist-credit")]
+  getter artist_credit : Array(MusicbrainzArtistCredit)
   getter status : String
-  @[JSON::Field(ignore_serialize: true)]
   getter asin : String?
 end
 
-struct InDisc
+struct MusicbrainzInDisc
   include JSON::Serializable
 
-  @[JSON::Field(ignore_serialize: true)]
   getter position : Int32
-  @[JSON::Field(ignore_serialize: true)]
-  getter tracks : Array(InTrack)
-  @[JSON::Field(key: "track-count", ignore_serialize: true)]
+  getter tracks : Array(MusicbrainzInTrack)
+  @[JSON::Field(key: "track-count")]
   getter track_count : Int32
-  @[JSON::Field(ignore_serialize: true)]
   getter format : String
 end
 
-struct InTrack
+struct MusicbrainzInTrack
   include JSON::Serializable
 
-  @[JSON::Field(ignore_serialize: true)]
   getter title : String
-  @[JSON::Field(ignore_serialize: true)]
-  getter recording : InRecord
-  @[JSON::Field(ignore_serialize: true)]
+  getter recording : MusicbrainzInRecord
   getter length : Int64?
-  @[JSON::Field(ignore_serialize: true)]
   getter id : String
-  @[JSON::Field(ignore_serialize: true)]
   getter number : String
 end
 
-struct InRecord
+struct MusicbrainzInRecord
   include JSON::Serializable
 
-  @[JSON::Field(ignore_serialize: true)]
   getter id : String
-  @[JSON::Field(ignore_serialize: true)]
-  getter relations : Array(RecordingRelation)
-  @[JSON::Field(ignore_serialize: true)]
-  getter genres : Array(Genre)
+  getter relations : Array(MusicbrainzRecordingRelation)
+  getter genres : Array(MusicbrainzGenre)
 end
 
-struct InReleaseGroup
+struct MusicbrainzInReleaseGroup
   include JSON::Serializable
 
-  @[JSON::Field(ignore_serialize: true)]
   getter id : String
-  @[JSON::Field(key: "first-release-date", ignore_serialize: true)]
+  @[JSON::Field(key: "first-release-date")]
   getter first_release_date : String
-  @[JSON::Field(key: "primary-type", ignore_serialize: true)]
+  @[JSON::Field(key: "primary-type")]
   getter primary_type : String
 end
 
-def parse_release(json : String) : Release
+def parse_musicbrainz_release(json : String) : Release
   r = Release.new
-  in_r = InRelease.from_json(json)
+  in_r = MusicbrainzInRelease.from_json(json)
 
   r.title = in_r.title
 

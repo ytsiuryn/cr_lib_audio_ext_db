@@ -1,0 +1,8 @@
+Documentation/DocumentationAdmonition:
+  Enabled: false
+Style/RedundantBegin:
+  Enabled: true
+Style/RedundantReturn:
+  Enabled: true
+LineLength:
+  MaxLength: 120
