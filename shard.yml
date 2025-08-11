@@ -1,5 +1,5 @@
 name: ext_db
-version: 0.1.1
+version: 0.1.2
 
 authors:
   - Yuri Tsiuryn <yuri.turin@gmail.com>
@@ -11,7 +11,7 @@ license: MIT
 dependencies:
 #     version: "~> 0.5"
   core:
-    path: "../core"
+    github: ytsiuryn/cr_lib_audio_core
 
 development_dependencies:
   ameba:
